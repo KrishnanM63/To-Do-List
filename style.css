@@ -1,0 +1,31 @@
+
+        p{
+            height: auto;
+            width: auto;
+            border-radius: 5px;
+            background-color: darkgrey;
+            padding: 10px;
+        }
+        button{
+           height: 30px;
+            width: 50px;
+            border-radius: 5px;
+            background-color: darkgrey;
+            padding: 10px;
+            margin-right: 50px;
+            background-color: greenyellow;
+          
+            
+          
+        }
+        input{
+            height: 50px;
+        }
+        #btn{
+           height: 50px;
+           width: 100px;
+        }
+        body{
+            background-color: #C6D8D3;
+        }
+
